@@ -7,4 +7,4 @@
 * One of my favourite quotes are *"Happiness is not by chance, but by choice"* **and** *"Life goes on"*
 
 ### Below is a meme I made using the R package [{Magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
-![]()
+![](https://github.com/lma969/STATS220/blob/main/my_meme.png)
