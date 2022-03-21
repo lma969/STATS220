@@ -2,7 +2,9 @@
 ## About me:
 1. I am currently a 2nd year student studying at the [University of Auckland](https://www.auckland.ac.nz/en.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP6MthljPRKcc8PhTY_jxO_J6JM9hHi7AhzhLUtSszSO7zxLNJFda4RoCrooQAvD_BwE&gclsrc=aw.ds)
 2. My family is from China, but I grew up in New Zealand 
-3. I love coffee and bubble tea
+3. I love coffee and bubble tea, in particular:
+     * Ice latte with almond milk for coffee
+     * Pearl milk tea for bubble tea 
 <img src="https://cdn.pixabay.com/photo/2018/07/18/07/56/drink-3545791__340.jpg" width="250" height="280" /> 
 <img src="https://cdn.pixabay.com/photo/2017/12/17/21/44/coffee-3025022_1280.jpg" width="250" height"300" />
 
